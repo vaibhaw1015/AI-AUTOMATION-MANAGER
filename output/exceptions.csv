@@ -1,0 +1,13 @@
+exception_id,source,record_id,date,amount,category,description,action_recommended
+EXC_BNK_001,Bank Statement,BNK_053,2026-08-29,-35.0,bank-only (unrecorded bank fee),SVB WIRE SERVICE CHARGE DOMESTIC,Post adjusting journal entry to Bank Fee Expense
+EXC_BNK_002,Bank Statement,BNK_054,2026-08-29,1250.0,bank-only (unidentified remittance),UNKNOWN INBOUND REMIT REF 99812,Request counterparty remittance advice to raise invoice
+EXC_BNK_003,Bank Statement,BNK_055,2026-08-23,-149.0,duplicate (suspected double billing),GITHUB INC RECURRING SUB DUPL,Contact card processor/merchant to void duplicate debit
+EXC_BNK_004,Bank Statement,BNK_056,2026-08-28,-18.5,bank-only (unrecorded bank fee),FOREIGN EXCHANGE DISPATCH FEE,Post adjusting journal entry to Bank Fee Expense
+EXC_BNK_005,Bank Statement,BNK_057,2026-08-30,-200.0,bank-only (unrecorded debit),ATM CASH WITHDRAWAL HARBOR ST,Audit department debit authorization
+EXC_BNK_006,Bank Statement,BNK_058,2026-08-30,-450.0,bank-only (unrecorded bank fee),STRIPE CHARGEBACK DISPUTE REVERSAL,Post adjusting journal entry to Bank Fee Expense
+EXC_BNK_007,Bank Statement,BNK_059,2026-08-31,-25.0,bank-only (unrecorded bank fee),MONTHLY ACCOUNT MAINTENANCE FEE,Post adjusting journal entry to Bank Fee Expense
+EXC_LDG_001,General Ledger,LDG_053,2026-08-31,8800.0,ledger-only (timing: deposit/check in transit),Nexus Dynamics Deliverable Sign-off,Carry forward as reconciling item to next monthly binder
+EXC_LDG_002,General Ledger,LDG_054,2026-08-31,-6500.0,ledger-only (timing: deposit/check in transit),Cisco Systems Hardware Refresh Switch,Carry forward as reconciling item to next monthly binder
+EXC_LDG_003,General Ledger,LDG_055,2026-08-30,-1200.0,ledger-only (timing: deposit/check in transit),AdRoll Marketing Retargeting Campaign,Carry forward as reconciling item to next monthly binder
+EXC_LDG_004,General Ledger,LDG_056,2026-08-31,3400.0,ledger-only (timing: deposit/check in transit),Pending Customer Check - TechFlow Ltd,Carry forward as reconciling item to next monthly binder
+EXC_LDG_005,General Ledger,LDG_057,2026-08-31,-2500.0,ledger-only (timing: deposit/check in transit),Accrued Legal Fees - Cooley LLP,Carry forward as reconciling item to next monthly binder

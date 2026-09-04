@@ -1,0 +1,65 @@
+link_id,bank_id,ledger_id,match_type,variance,notes
+LINK_001,BNK_001,LDG_001,exact,0.0,"Exact match on date, amount, and reference"
+LINK_002,BNK_002,LDG_002,exact,0.0,"Exact match on date, amount, and reference"
+LINK_003,BNK_003,LDG_003,exact,0.0,"Exact match on date, amount, and reference"
+LINK_004,BNK_004,LDG_004,exact,0.0,"Exact match on date, amount, and reference"
+LINK_005,BNK_005,LDG_005,exact,0.0,"Exact match on date, amount, and reference"
+LINK_006,BNK_006,LDG_006,exact,0.0,"Exact match on date, amount, and reference"
+LINK_007,BNK_007,LDG_007,exact,0.0,"Exact match on date, amount, and reference"
+LINK_008,BNK_008,LDG_008,exact,0.0,"Exact match on date, amount, and reference"
+LINK_009,BNK_009,LDG_009,exact,0.0,"Exact match on date, amount, and reference"
+LINK_010,BNK_010,LDG_010,exact,0.0,"Exact match on date, amount, and reference"
+LINK_011,BNK_011,LDG_011,exact,0.0,"Exact match on date, amount, and reference"
+LINK_012,BNK_012,LDG_012,exact,0.0,"Exact match on date, amount, and reference"
+LINK_013,BNK_013,LDG_013,exact,0.0,"Exact match on date, amount, and reference"
+LINK_014,BNK_014,LDG_014,exact,0.0,"Exact match on date, amount, and reference"
+LINK_015,BNK_015,LDG_015,exact,0.0,"Exact match on date, amount, and reference"
+LINK_016,BNK_016,LDG_016,exact,0.0,"Exact match on date, amount, and reference"
+LINK_017,BNK_017,LDG_017,exact,0.0,"Exact match on date, amount, and reference"
+LINK_018,BNK_018,LDG_018,exact,0.0,"Exact match on date, amount, and reference"
+LINK_019,BNK_019,LDG_019,exact,0.0,"Exact match on date, amount, and reference"
+LINK_020,BNK_020,LDG_020,exact,0.0,"Exact match on date, amount, and reference"
+LINK_021,BNK_021,LDG_021,exact,0.0,"Exact match on date, amount, and reference"
+LINK_022,BNK_022,LDG_022,exact,0.0,"Exact match on date, amount, and reference"
+LINK_023,BNK_023,LDG_023,exact,0.0,"Exact match on date, amount, and reference"
+LINK_024,BNK_024,LDG_024,exact,0.0,"Exact match on date, amount, and reference"
+LINK_025,BNK_025,LDG_025,exact,0.0,"Exact match on date, amount, and reference"
+LINK_026,BNK_026,LDG_026,exact,0.0,"Exact match on date, amount, and reference"
+LINK_027,BNK_027,LDG_027,exact,0.0,"Exact match on date, amount, and reference"
+LINK_028,BNK_028,LDG_028,exact,0.0,"Exact match on date, amount, and reference"
+LINK_029,BNK_029,LDG_029,exact,0.0,"Exact match on date, amount, and reference"
+LINK_030,BNK_030,LDG_030,exact,0.0,"Exact match on date, amount, and reference"
+LINK_031,BNK_031,LDG_031,exact,0.0,"Exact match on date, amount, and reference"
+LINK_032,BNK_032,LDG_032,exact,0.0,"Exact match on date, amount, and reference"
+LINK_033,BNK_033,LDG_033,exact,0.0,"Exact match on date, amount, and reference"
+LINK_034,BNK_034,LDG_034,exact,0.0,"Exact match on date, amount, and reference"
+LINK_035,BNK_035,LDG_035,exact,0.0,"Exact match on date, amount, and reference"
+LINK_036,BNK_036,LDG_036,exact,0.0,"Exact match on date, amount, and reference"
+LINK_037,BNK_037,LDG_037,exact,0.0,"Exact match on date, amount, and reference"
+LINK_038,BNK_038,LDG_038,fuzzy,0.0,Abbreviation + 2d date drift
+LINK_039,BNK_039,LDG_039,fuzzy,-1.0,₹1 / $1 wire fee deduction + 2d drift
+LINK_040,BNK_040,LDG_040,fuzzy,0.0,Name abbreviation
+LINK_041,BNK_041,LDG_041,fuzzy,-0.02,Penny rounding drift (2 cents)
+LINK_042,BNK_042,LDG_042,fuzzy,-290.0,2.9% merchant gateway fee deduction
+LINK_043,BNK_043,LDG_043,fuzzy,0.0,Prefix noise + 2d lag
+LINK_044,BNK_044,LDG_044,fuzzy,-35.0,$35 intermediary bank wire fee
+LINK_045,BNK_045,LDG_045,fuzzy,0.0,Vendor name abbreviation
+LINK_046,BNK_046,LDG_046,fuzzy,0.2,Penny tip drift (20 cents)
+LINK_047,BNK_047,LDG_047,fuzzy,0.0,Date lag (2 days)
+LINK_048,BNK_048,LDG_048,fuzzy,0.0,Counterparty token overlap
+LINK_049,BNK_049,LDG_049,fuzzy,0.0,Date lag (2 days)
+LINK_050,BNK_050,LDG_050,fuzzy,0.0,Entity geographical variation
+LINK_051,BNK_051,LDG_051,fuzzy,0.0,Abbreviated suffix
+LINK_052,BNK_052,LDG_052,fuzzy,0.0,Retail store prefix
+LINK_053,BNK_053,NONE,exception,-35.0,bank-only (unrecorded bank fee)
+LINK_054,BNK_054,NONE,exception,1250.0,bank-only (missing invoice)
+LINK_055,BNK_055,NONE,exception,-149.0,duplicate (suspected double charge)
+LINK_056,BNK_056,NONE,exception,-18.5,bank-only (currency fee)
+LINK_057,BNK_057,NONE,exception,-200.0,bank-only (unrecorded debit)
+LINK_058,BNK_058,NONE,exception,-450.0,bank-only (chargeback clawback)
+LINK_059,BNK_059,NONE,exception,-25.0,bank-only (monthly bank fee)
+LINK_060,NONE,LDG_053,exception,8800.0,ledger-only (timing: deposit in transit)
+LINK_061,NONE,LDG_054,exception,-6500.0,ledger-only (timing: check in transit)
+LINK_062,NONE,LDG_055,exception,-1200.0,ledger-only (unbilled ad charge)
+LINK_063,NONE,LDG_056,exception,3400.0,ledger-only (uncollected check)
+LINK_064,NONE,LDG_057,exception,-2500.0,ledger-only (year-end accrual entry)

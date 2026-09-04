@@ -1,0 +1,58 @@
+ledger_id,date,amount,description,reference_id
+LDG_001,2026-08-01,1250.0,Acme Corporation - Monthly recurring service (INV-1001),INV-1001
+LDG_002,2026-08-02,840.0,Slack Technologies Inc - Monthly recurring service (SUB-SLK-201),SUB-SLK-201
+LDG_003,2026-08-03,14500.0,Deel Global Payroll - Monthly recurring service (PAY-DEEL-88),PAY-DEEL-88
+LDG_004,2026-08-04,249.9,Zoom Video Comm - Monthly recurring service (SUB-ZM-912),SUB-ZM-912
+LDG_005,2026-08-05,3200.0,Datadog Cloud Monitoring - Monthly recurring service (INV-DD-304),INV-DD-304
+LDG_006,2026-08-06,1800.0,HubSpot Inc - Monthly recurring service (INV-HB-552),INV-HB-552
+LDG_007,2026-08-07,450.0,Figma Enterprise - Monthly recurring service (SUB-FIG-102),SUB-FIG-102
+LDG_008,2026-08-08,200.0,Cloudflare CDN - Monthly recurring service (INV-CF-889),INV-CF-889
+LDG_009,2026-08-09,1680.5,Twilio Communications - Monthly recurring service (INV-TW-401),INV-TW-401
+LDG_010,2026-08-10,5400.0,Snowflake Data Cloud - Monthly recurring service (INV-SNOW-901),INV-SNOW-901
+LDG_011,2026-08-11,7200.0,Salesforce.com Inc - Monthly recurring service (INV-SF-112),INV-SF-112
+LDG_012,2026-08-12,950.0,Atlassian Jira/Confluence - Monthly recurring service (SUB-ATL-780),SUB-ATL-780
+LDG_013,2026-08-13,2500.0,Carta Equity Mgmt - Monthly recurring service (INV-CRT-334),INV-CRT-334
+LDG_014,2026-08-14,1120.0,MongoDB Atlas - Monthly recurring service (INV-MDB-551),INV-MDB-551
+LDG_015,2026-08-15,8900.0,Workday HCM - Monthly recurring service (INV-WD-441),INV-WD-441
+LDG_016,2026-08-16,3500.0,Vanta Compliance - Monthly recurring service (INV-VN-202),INV-VN-202
+LDG_017,2026-08-17,120.0,Ramp Financial - Monthly recurring service (FEE-RMP-01),FEE-RMP-01
+LDG_018,2026-08-18,2100.0,Zendesk Support Suite - Monthly recurring service (INV-ZEN-667),INV-ZEN-667
+LDG_019,2026-08-19,650.0,Asana Enterprise - Monthly recurring service (SUB-ASN-991),SUB-ASN-991
+LDG_020,2026-08-20,420.0,DigitalOcean Droplets - Monthly recurring service (INV-DO-772),INV-DO-772
+LDG_021,2026-08-21,4500.0,Brex Corporate Pay - Monthly recurring service (PAY-BRX-112),PAY-BRX-112
+LDG_022,2026-08-22,11200.0,Gusto Payroll Transfer - Monthly recurring service (PAY-GST-890),PAY-GST-890
+LDG_023,2026-08-23,1850.0,OpenAI API Platform - Monthly recurring service (SUB-OAI-334),SUB-OAI-334
+LDG_024,2026-08-24,790.0,Stripe Terminal Hardware - Monthly recurring service (INV-STR-091),INV-STR-091
+LDG_025,2026-08-25,920.0,DocuSign Corporate - Monthly recurring service (INV-DOC-448),INV-DOC-448
+LDG_026,2026-08-01,800.0,Notion Team Enterprise - Monthly recurring service (SUB-NTN-221),SUB-NTN-221
+LDG_027,2026-08-02,1500.0,Segment Data Streams - Monthly recurring service (INV-SEG-114),INV-SEG-114
+LDG_028,2026-08-03,360.0,Linear Software - Monthly recurring service (SUB-LIN-772),SUB-LIN-772
+LDG_029,2026-08-04,240.0,Vercel Pro Hosting - Monthly recurring service (SUB-VRC-003),SUB-VRC-003
+LDG_030,2026-08-05,1490.0,GitHub Enterprise Server - Monthly recurring service (SUB-GH-882),SUB-GH-882
+LDG_031,2026-08-06,450.0,SendGrid Email API - Monthly recurring service (INV-SG-993),INV-SG-993
+LDG_032,2026-08-07,320.0,Miro Team Collaboration - Monthly recurring service (SUB-MIR-441),SUB-MIR-441
+LDG_033,2026-08-08,299.0,1Password Business - Monthly recurring service (SUB-1PW-881),SUB-1PW-881
+LDG_034,2026-08-09,180.0,Grammarly Business - Monthly recurring service (SUB-GRM-002),SUB-GRM-002
+LDG_035,2026-08-10,250.0,Loom Video Enterprise - Monthly recurring service (SUB-LM-661),SUB-LM-661
+LDG_036,2026-08-11,149.0,Canva Design Teams - Monthly recurring service (SUB-CNV-554),SUB-CNV-554
+LDG_037,2026-08-12,890.0,Postman Enterprise API - Monthly recurring service (INV-PST-771),INV-PST-771
+LDG_038,2026-08-03,6840.5,Amazon Web Services Inc - Cloud Hosting,AWS-AUG-26
+LDG_039,2026-08-04,5000.0,Acme Corp - Enterprise Annual License 1,INV-ACM-808
+LDG_040,2026-08-06,720.0,Google Workspace Corporate Account,GSUITE-AUG
+LDG_041,2026-08-10,3420.5,Notion Labs Team Plan EUR Converted,NTN-INTL-10
+LDG_042,2026-08-11,10000.0,Customer Invoices Batch Gross Revenue,STR-PO-991
+LDG_043,2026-08-13,4500.0,Microsoft Corporation - Azure US/EU,MSFT-AZ-114
+LDG_044,2026-08-15,3000.0,Intercom Messaging Platform Annual,INT-8821
+LDG_045,2026-08-16,345.8,Federal Express Logistics Package Delivery,FDX-7721
+LDG_046,2026-08-19,890.0,Uber Technologies Inc - Monthly Employee Rides,UBR-BIZ-89
+LDG_047,2026-08-19,8200.0,Oracle Corp - ERP Database Cloud Services,ORA-CLD-90
+LDG_048,2026-08-21,1250.0,LinkedIn Corporation - Talent Solutions Recruiter,LNKD-AUG-21
+LDG_049,2026-08-22,490.0,Expensify Corporate Card Processing,EXPF-AUG-44
+LDG_050,2026-08-23,1420.5,Airbnb Payments UK - Annual Leadership Offsite,ABNB-TRV-10
+LDG_051,2026-08-25,580.0,Intuit Software - Monthly Payroll Filing,QB-PAY-580
+LDG_052,2026-08-26,2499.0,Apple Inc - Developer Mac Hardware,AAPL-DEV-99
+LDG_053,2026-08-31,8800.0,Nexus Dynamics Deliverable Sign-off,INV-2026-109
+LDG_054,2026-08-31,-6500.0,Cisco Systems Hardware Refresh Switch,PO-CISCO-88
+LDG_055,2026-08-30,-1200.0,AdRoll Marketing Retargeting Campaign,INV-ADR-441
+LDG_056,2026-08-31,3400.0,Pending Customer Check - TechFlow Ltd,CHK-TF-990
+LDG_057,2026-08-31,-2500.0,Accrued Legal Fees - Cooley LLP,ACCR-LEG-26
