@@ -1,5 +1,19 @@
 # Tick & Tie AI — Autonomous Financial Reconciliation Agent
 
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-ai--automation--manager.vercel.app-00dfa2?style=for-the-badge&logo=vercel&logoColor=black)](https://ai-automation-manager.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-vaibhaw1015%2FAI--AUTOMATION--MANAGER-181717?style=for-the-badge&logo=github)](https://github.com/vaibhaw1015/AI-AUTOMATION-MANAGER)
+[![React 19](https://img.shields.io/badge/React-19.2-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![Vite](https://img.shields.io/badge/Vite-8.2-646cff?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Python 3.12](https://img.shields.io/badge/Python-3.12-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+
+### 🌐 **Live Web Application**: [https://ai-automation-manager.vercel.app/](https://ai-automation-manager.vercel.app/)
+
+</div>
+
+---
+
 An autonomous AI agent that takes two messy financial record-sets (e.g. bank transaction feed and internal company ledger) and automatically figures out which entries match — the way an accountant manually "ticks and ties" transactions during month-end close — while **honestly isolating what it cannot resolve** instead of guessing.
 
 ---
@@ -123,8 +137,11 @@ python -m pytest tests/test_matcher.py -v
 
 ---
 
-## Optional: Interactive Web UI Studio
-The project also includes an interactive Vite + React dual-pane Tick & Tie Studio with drag-and-drop CSV upload, live connector lines, and side-by-side audit drawers:
+## 🖥️ Interactive Web UI Studio
+
+Access the deployed cloud version instantly at: **[https://ai-automation-manager.vercel.app/](https://ai-automation-manager.vercel.app/)**
+
+Or run locally with hot module reloading:
 ```powershell
 npm run dev
 ```
